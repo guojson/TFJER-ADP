@@ -2,7 +2,11 @@
 A novel table filling-based joint entity and relation extraction model for agricultural disease and pest
 
 
+# Cite
 
-# note
+Updated after the paper is accepted
 
-we will release the source code and dataset as soon as the paper is accepted.
+
+# Note
+
+We will release the source code and dataset as soon as the paper is accepted.
